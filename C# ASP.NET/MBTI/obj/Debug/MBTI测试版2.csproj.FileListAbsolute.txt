@@ -1,0 +1,11 @@
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\bin\Debug\MBTI测试版2.exe.config
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\bin\Debug\MBTI测试版2.exe
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\bin\Debug\MBTI测试版2.pdb
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.csprojResolveAssemblyReference.cache
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.Form1.resources
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.Properties.Resources.resources
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.csproj.GenerateResource.Cache
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.csproj.CoreCompileInputs.cache
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.exe
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.pdb
+C:\Users\www12\source\repos\MBTI测试版2\MBTI测试版2\obj\Debug\MBTI测试版2.Form2.resources

@@ -1,0 +1,2 @@
+201001,Jack,1.78,72,20,Normal Rang
+201002,Marry,1.67,55,20,Normal Rang

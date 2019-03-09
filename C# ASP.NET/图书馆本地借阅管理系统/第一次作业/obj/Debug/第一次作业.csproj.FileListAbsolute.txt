@@ -1,0 +1,17 @@
+E:\Visual Studio 项目\第一次作业\第一次作业\bin\Debug\第一次作业.exe.config
+E:\Visual Studio 项目\第一次作业\第一次作业\bin\Debug\第一次作业.exe
+E:\Visual Studio 项目\第一次作业\第一次作业\bin\Debug\第一次作业.pdb
+E:\Visual Studio 项目\第一次作业\第一次作业\bin\Debug\MySql.Data.dll
+E:\Visual Studio 项目\第一次作业\第一次作业\bin\Debug\MySql.Data.xml
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.csprojResolveAssemblyReference.cache
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Form1.resources
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Properties.Resources.resources
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.csproj.GenerateResource.Cache
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.csproj.CoreCompileInputs.cache
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.exe
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.pdb
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Form2.resources
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Form3.resources
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Form4.resources
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Form5.resources
+E:\Visual Studio 项目\第一次作业\第一次作业\obj\Debug\第一次作业.Form6.resources
